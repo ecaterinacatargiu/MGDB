@@ -1,0 +1,10 @@
+D:\An II\Sem2\MGDB\Practic\Practic\bin\Debug\Practic.exe.config
+D:\An II\Sem2\MGDB\Practic\Practic\bin\Debug\Practic.exe
+D:\An II\Sem2\MGDB\Practic\Practic\bin\Debug\Practic.pdb
+D:\An II\Sem2\MGDB\Practic\Practic\obj\Debug\Practic.csprojAssemblyReference.cache
+D:\An II\Sem2\MGDB\Practic\Practic\obj\Debug\Practic.Form1.resources
+D:\An II\Sem2\MGDB\Practic\Practic\obj\Debug\Practic.Properties.Resources.resources
+D:\An II\Sem2\MGDB\Practic\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+D:\An II\Sem2\MGDB\Practic\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+D:\An II\Sem2\MGDB\Practic\Practic\obj\Debug\Practic.exe
+D:\An II\Sem2\MGDB\Practic\Practic\obj\Debug\Practic.pdb
